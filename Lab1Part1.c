@@ -25,5 +25,6 @@ int main(void) {
 	result = pow(radius, 2) * PI;
 
 	printf("\nThe area of your circle is %.2f", result);
+	printf("\n");
 return 0;
 }
